@@ -1,0 +1,1 @@
+Para correta execução do código é imprescindível a presença dos arquivos "tale.txt", "quincas_borba.txt" e "nomes_filtrados.txt" no mesmo diretório que o código fonte. Além disso, a biblioteca matplotlib deve estar instalada para exibição dos gráficos gerados, com comandos como "py -m pip install matplotlib" ou "python -m pip install matplotlib".
